@@ -1,0 +1,12 @@
+body{
+    box-sizing: border-box;
+}
+.serch {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.item{
+    border: 1px solid black;
+    
+}
